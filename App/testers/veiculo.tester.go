@@ -3,7 +3,7 @@ package testers
 import (
 	"fmt"
 
-	"github.com/rzjprogramador/AppMotor_GO/entitys/pessoa"
+	"github.com/rzjprogramador/AppMotor_GO/App/entitys/pessoa"
 )
 
 func TesterVeiculo() {

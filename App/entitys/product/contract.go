@@ -1,6 +1,6 @@
 package product
 
-import "github.com/rzjprogramador/AppMotor_GO/entitys/pessoa"
+import "github.com/rzjprogramador/AppMotor_GO/App/entitys/pessoa"
 
 // main
 type Viajem struct {

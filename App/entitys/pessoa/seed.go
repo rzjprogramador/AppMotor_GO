@@ -1,6 +1,6 @@
 package pessoa
 
-import "github.com/rzjprogramador/AppMotor_GO/entitys/veiculo"
+import "github.com/rzjprogramador/AppMotor_GO/App/entitys/veiculo"
 
 var Pessoa1Seed = Pessoa{
 	ID:        "1",

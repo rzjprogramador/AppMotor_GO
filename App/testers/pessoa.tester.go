@@ -3,8 +3,8 @@ package testers
 import (
 	"fmt"
 
-	"github.com/rzjprogramador/AppMotor_GO/entitys/pessoa"
-	"github.com/rzjprogramador/AppMotor_GO/externals/libs_rzj"
+	"github.com/rzjprogramador/AppMotor_GO/App/entitys/pessoa"
+	"github.com/rzjprogramador/AppMotor_GO/externals/app/libs_rzj"
 )
 
 func TesterPessoa() {

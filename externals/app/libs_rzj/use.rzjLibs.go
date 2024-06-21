@@ -1,8 +1,8 @@
 package libs_rzj
 
 import (
-	"github.com/rzjprogramador/RzLibs_GO/convert"
-	"github.com/rzjprogramador/RzLibs_GO/soma"
+	"github.com/rzjprogramador/RzLibs_GO/App/convert"
+	"github.com/rzjprogramador/RzLibs_GO/App/soma"
 )
 
 // POLO_UNICO : REPASSA AS LIBS IMPORTADAS : Rzj_Libs
